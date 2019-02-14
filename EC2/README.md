@@ -32,7 +32,8 @@
 - python3 get-pip.py --user
 - 이후 모듈 설치 : pip3 install modulename --user
 
-- 관련 링크 : aws guide : https://docs.aws.amazon.com/ko_kr/cli/latest/userguide/cli-chap-tutorial.html
+### AWS CLI
+- 관련 링크 : [aws guide] (https://docs.aws.amazon.com/ko_kr/cli/latest/userguide/cli-chap-tutorial.html)
 
 
 

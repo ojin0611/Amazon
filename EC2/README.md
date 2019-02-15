@@ -31,7 +31,8 @@ python3 get-pip.py --user
 pip3 install modulename --user
 ```
 
-- 관련 링크 : aws guide : https://docs.aws.amazon.com/ko_kr/cli/latest/userguide/cli-chap-tutorial.html
+### AWS CLI
+- 관련 링크 : [aws guide] (https://docs.aws.amazon.com/ko_kr/cli/latest/userguide/cli-chap-tutorial.html)
 
 
 ### Google Chrome (+chromedriver) + selenium

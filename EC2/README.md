@@ -16,6 +16,9 @@
 
 
 ## EC2에 프로그램 설치
+### 시작
+`sudo yum update`
+
 ### git
 - `sudo yum install git`
 - 정리 링크 : https://medium.com/sunhyoups-story/ec2-git-ac275a4e789c
@@ -26,6 +29,7 @@
 
 ### pip3
 ```
+cd /tmp
 curl "https://bootstrap.pypa.io/get-pip.py" -o "get-pip.py"
 python3 get-pip.py --user
 # pip3 install modulename --user
